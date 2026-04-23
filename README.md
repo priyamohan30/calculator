@@ -1,7 +1,5 @@
 # calculator
 This is my first repository.
-<br>
-Author = Priyanka
 # Simple Calculator in Python
 
 # This function adds two numbers
